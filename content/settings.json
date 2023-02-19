@@ -1,10 +1,10 @@
 {
   "domain": "cabalisticosgames.netlify.app",
   "currency_symbol": "R$",
-  "primary_color": "#2e5db3",
+  "primary_color": "#fa7900",
   "theme": {
-    "bootswatch": "_",
-    "custom": "_"
+    "bootswatch": "cyborg",
+    "custom": "clean-dark"
   },
   "bg_color": "#ffffff",
   "repository": "ecomplus-stores/cabalisticosgames",
@@ -14,11 +14,11 @@
   "lang": "pt_br",
   "currency": "BRL",
   "mini_logo": "",
-  "font_family": "_",
+  "font_family": "Ubuntu",
   "favicon": "/img/uploads/favicon.jpg",
-  "icons_font": "_",
+  "icons_font": "font-awesome",
   "country_code": "BR",
-  "secondary_color": "#393e46",
+  "secondary_color": "#6686de",
   "icon": "/img/uploads/logo.png",
   "store_id": 51354,
   "description": "Cabalisticos Games: sua diversão, nossa missão!",
