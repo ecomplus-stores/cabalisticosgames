@@ -263,6 +263,9 @@ import {
             key += `-${this.amount[amountField]}`
           }
         })
+        if (this.skipPaymentApps.length) {
+          key += '-skip'
+        }
         return key
       }
     },
@@ -377,7 +380,7 @@ import {
       },
   
       skipPaymentApps () {
-        this.toCheckoutStep = 1
+        this.toCheckoutStep = 2
         this.paymentsListKey += '-skip'
       },
   
