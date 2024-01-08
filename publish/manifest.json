@@ -1,0 +1,37 @@
+{
+  "icons": [
+    {
+      "src": "/icon_512x512.406dd54e3e9c5bce2206a01ead4f90b1.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_384x384.bd91049b3d69622fa560386ce7591f62.png",
+      "sizes": "384x384",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_192x192.7b8310946788d911e50912d42532758e.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_128x128.54af4526d2af7600f94b73dcf7f97da0.png",
+      "sizes": "128x128",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_96x96.34a773ef02850f0d829370ea18f30c5a.png",
+      "sizes": "96x96",
+      "type": "image/png"
+    }
+  ],
+  "name": "Cabalísticos Games",
+  "short_name": "cabalisticosgames",
+  "orientation": "portrait",
+  "display": "standalone",
+  "start_url": ".",
+  "description": "Cabalisticos Games: sua diversão, nossa missão!",
+  "background_color": "#ffffff",
+  "theme_color": "#fa7900"
+}
