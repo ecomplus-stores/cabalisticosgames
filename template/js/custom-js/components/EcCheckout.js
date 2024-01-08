@@ -378,6 +378,7 @@ import {
   
       skipPaymentApps () {
         this.toCheckoutStep = 1
+        this.paymentsListKey += '-skip'
       },
   
       toCheckoutStep (stepNumber) {
